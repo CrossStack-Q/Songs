@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CrossStack-Q/Songs/static/css/main.b1d757db.css",
+    "main.js": "/CrossStack-Q/Songs/static/js/main.54f3335c.js",
+    "index.html": "/CrossStack-Q/Songs/index.html",
+    "main.b1d757db.css.map": "/CrossStack-Q/Songs/static/css/main.b1d757db.css.map",
+    "main.54f3335c.js.map": "/CrossStack-Q/Songs/static/js/main.54f3335c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d757db.css",
+    "static/js/main.54f3335c.js"
+  ]
+}
