@@ -42,7 +42,7 @@ Install dependencies
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/CrossStack-Q/Songs/main/Screenshots/Music_React_2.png)
-![App Screenshot](https://raw.githubusercontent.com/CrossStack-Q/Songs/main/Screenshots/Music_React_2.png)
+![App Screenshot](https://raw.githubusercontent.com/CrossStack-Q/Songs/main/Screenshots/Music_React_1.png)
 
 
 ## Authors
