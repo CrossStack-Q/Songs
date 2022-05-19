@@ -1,6 +1,6 @@
 # Songs
 
-Twitter is a app that helps me to share my ideas.
+Songs is a app Used to hear my favourite songs online.
 This app had improved my Firebase skills.
 
 This App is made in ReactJS.
